@@ -1,0 +1,6 @@
+python >= 3.6
+tensorflow
+keras
+numpy
+matplotlib
+opencv-python
